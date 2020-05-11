@@ -25,7 +25,12 @@ If you don't understand this, don't worry. We'll be covering it in the workshop.
 
 ### Prerequisites
 
-Please have Git installed before this workshop. For instructions on how to install git, please visit the instructions @Angus has written:
+Please ensure you have the following set up before the event: 
+
+- Visual Studio Code
+    [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+- Github Account
+    [https://github.com/](https://github.com/)
+- Git installed on your device. For a detailed guide by our Technical Director @Angus Lee, click here: [https://cutt.ly/git-setup](https://cutt.ly/git-setup)
 
 ### Add your name here
-April Chi
