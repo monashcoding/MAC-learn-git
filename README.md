@@ -34,3 +34,4 @@ Please ensure you have the following set up before the event:
 - Git installed on your device. For a detailed guide by our Technical Director @Angus Lee, click here: [https://cutt.ly/git-setup](https://cutt.ly/git-setup)
 
 ### Add your name here
+April Chi
