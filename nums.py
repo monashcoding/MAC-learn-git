@@ -1,5 +1,6 @@
 a = 20
-b = 1000
+b = 500
+
 
 # do something here
 temp = a
